@@ -1,0 +1,3 @@
+- insert:
+    - id: completion-notify
+      name: 'dsh-completion-notify'

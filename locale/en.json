@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Completion Alerts",
+    "description": "Sends a desktop notification when a conversation finishes in the background; click it to return to that session."
+  }
+}
