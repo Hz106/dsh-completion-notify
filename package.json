@@ -4,6 +4,10 @@
   "private": true,
   "type": "module",
   "description": "Codex-style completion card for DeepSeek Harness: when a conversation finishes in the background, show a themed card with the session, a snippet of the answer, and click-to-open.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hz106/dsh-completion-notify.git"
+  },
   "keywords": [
     "deepseek-harness",
     "dsh",
